@@ -1,0 +1,12 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <RootNamespace>WC_Tool</RootNamespace>
+    <TargetFramework>net9.0</TargetFramework>
+    <Title>wc</Title>
+    <Authors>Stephen Wrighton</Authors>
+    <AssemblyName>wc</AssemblyName>
+  </PropertyGroup>
+
+</Project>
