@@ -1,0 +1,8 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/2025-04-30/wc-tool/WC-Tool/bin/Debug/net9.0
+/2025-04-30/wc-tool/WC-Tool/obj
+/2025-04-30/wc-tool/WC-Tool/.vs/WC-Tool/FileContentIndex
+/2025-04-30/wc-tool/WC-Tool/.vs/WC-Tool
